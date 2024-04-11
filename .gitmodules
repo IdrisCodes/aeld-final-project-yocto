@@ -1,0 +1,16 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky.git
+	branch = nanbield
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = nanbield
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = nanbield
+[submodule "meta-qt6"]
+	path = meta-qt6
+	url = git://code.qt.io/yocto/meta-qt6.git
+	branch = 6.7
