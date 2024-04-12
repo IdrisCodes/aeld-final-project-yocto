@@ -14,3 +14,7 @@
 	path = meta-qt6
 	url = git://code.qt.io/yocto/meta-qt6.git
 	branch = 6.7
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = git://git.openembedded.org/openembedded-core
+	branch = nanbield
